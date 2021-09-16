@@ -16,4 +16,6 @@ console.log(validatorName("Angelina. Kesya Putri")) // false
 console.log(validatorName("A. K. P.")) // false
 console.log(validatorName("Angelina. K. Putri")) // false
 
+console.log("tambahan data yang baru masuk")
+
 module.exports = validatorName
