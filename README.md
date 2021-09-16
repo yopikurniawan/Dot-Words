@@ -55,3 +55,5 @@ validName(“A. Kesya P.”) ➞ false
 
 validName(“Angelina. Kesya Putri”) ➞ false
 // Words cannot end with a dot (only initials can)
+
+// tambahan data comment yang baru masuk
