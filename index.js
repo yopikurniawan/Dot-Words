@@ -3,6 +3,21 @@ function validatorName(name) {
   return name
 }
 
+let datas = [
+  {
+    "id": 1,
+    "name": "paijo",
+  },
+  {
+    "id": 2,
+    "name": "baijo",
+  },
+  {
+    "id": 3,
+    "name": "caijo",
+  },
+]
+
 console.log(validatorName("A. Kesya")) // true
 console.log(validatorName("A. K. Putri")) // true
 console.log(validatorName("Angelina K. Putri")) // true
